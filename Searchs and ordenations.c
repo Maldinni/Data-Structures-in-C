@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+//by: Enzo Maldinni Montanha Rodrigues
+
 #define A 5
 //inserts values in vector 1
 void caso1(int *v1){

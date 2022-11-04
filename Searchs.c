@@ -1,4 +1,7 @@
 #include <stdio.h>
+
+//by: Enzo Maldinni Montanha Rodrigues
+
 //inserts a int in the vector 1
 void caso1(int *v1){
     printf("Digite os valores do vetor 1:\n");
